@@ -85,3 +85,5 @@ refname.sendKeys(data);
 I was active in playing outdoor sports, particularly cricket, and I also actively participate in   athlete events like 400m and 1500m.
  Additionally, I had a fondness for music and used to play the keyboard, although I haven't practiced much since then.
  Singing was another passion of mine, and I was part of the school choir.  
+6.hiding the logic
+	
