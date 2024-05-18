@@ -86,4 +86,6 @@ I was active in playing outdoor sports, particularly cricket, and I also activel
  Additionally, I had a fondness for music and used to play the keyboard, although I haven't practiced much since then.
  Singing was another passion of mine, and I was part of the school choir.  
 6.hiding the logic
+7.adding the viedo call
+8.adding audio call
 	
