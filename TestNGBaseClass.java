@@ -87,7 +87,7 @@ I was active in playing outdoor sports, particularly cricket, and I also activel
  Singing was another passion of mine, and I was part of the school choir.  
 6.hiding the logic
 7.adding the viedo call
-8.adding audio call
+8.adding audio call and voice message
 9.adding status in whatsapp
 10.adding options to create 100 users
 11.adding 300 userts
